@@ -1,5 +1,6 @@
 package com.company;
 
+<<<<<<< HEAD
 import cursojava.Aluno;
 
 import javax.swing.*;
@@ -38,3 +39,17 @@ public class Main {
 }
 
 
+=======
+public class Main {
+
+    public static void main(String[] args) {
+        //contador
+
+        for (int numero = 1; numero <= 10; numero++) {
+            System.out.println("O numero atual é : " + numero);
+
+            // for (inicialização; condição ; atualização);
+        }
+    }
+}
+>>>>>>> dbc4dcb23d82699f645b48ba984f8d6f27c565c4
